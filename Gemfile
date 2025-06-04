@@ -49,7 +49,7 @@ gem 'bcrypt', '~> 3.1.7'
 # gem "react-rails"
 # gem "webpacker", "~> 5.4"
 
-gem 'webpacker', '~> 4.0'
+gem 'webpacker', '~> 5.4'
 
 # CSS preprocessor
 gem 'sassc-rails'
