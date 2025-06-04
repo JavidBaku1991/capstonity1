@@ -1,0 +1,294 @@
+[33mcommit e36eaaaed48ec38cd2cf66efc764e84209949e76[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Wed May 28 13:50:58 2025 +0400
+
+    work
+
+[33mcommit b9cded4efe757dacc612a0acf9605b456d9b755e[m
+Merge: 43a99a0 2d6ffff
+Author: javidbaku <113694152+JavidBaku1991@users.noreply.github.com>
+Date:   Sun May 18 23:04:44 2025 +0400
+
+    Merge pull request #111 from JavidBaku1991/new
+    
+    logout button
+
+[33mcommit 43a99a0806dd5ff6e7d635de5d0bf116e55e22cb[m
+Merge: d268b66 4d6fa05
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:   Sun May 18 23:00:19 2025 +0400
+
+    Merge branch 'main' of https://github.com/JavidBaku1991/capstonity
+
+[33mcommit 2d6ffffbfeba2d34766d229f9c137d3203f795c8[m
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:   Sun May 18 22:49:57 2025 +0400
+
+    finaloss
+
+[33mcommit d268b662a05c784bb73f7097ca979bc687364c9a[m
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:   Fri May 16 23:03:48 2025 +0400
+
+    Update admin dashboard, user serializer, routes and add users controller
+
+[33mcommit 4a5a581ac200ab7cf35d749677d17038d87f5241[m
+Merge: 65e6e56 a15d3dd
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:   Fri May 16 23:02:29 2025 +0400
+
+    Resolve merge conflict by removing SQLite database
+
+[33mcommit a15d3dd6de7017f75bb4c9dc4d4d1bc1c75b6fe4[m
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:   Fri May 16 23:01:40 2025 +0400
+
+    Update .gitignore and remove SQLite database from tracking
+
+[33mcommit 115488bd0ff7f387c877d209ea3d6d0303058c0a[m
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:   Fri May 16 23:00:16 2025 +0400
+
+    Update database.yml for Heroku deployment
+
+[33mcommit 800eed58ab857e9137d521d5ac8aadc53ffe43b3[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Wed May 14 15:41:43 2025 +0400
+
+    logout button
+
+[33mcommit 4d6fa0529ffc57c67317f176bc0dfbf271f00992[m
+Merge: 65e6e56 0b219d0
+Author: javidbaku <113694152+JavidBaku1991@users.noreply.github.com>
+Date:   Tue May 13 23:58:26 2025 +0400
+
+    Merge pull request #10 from JavidBaku1991/new
+    
+    New
+
+[33mcommit 0b219d0a525bc74869cd18a2a42f9dbf0497b104[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue May 13 23:57:25 2025 +0400
+
+    hope the last
+
+[33mcommit 8832f57f799a57b751f6ffb9d91bb3e26d2e7914[m
+Merge: ce5ee8c d56fe3f
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue May 13 23:49:43 2025 +0400
+
+    profile glass
+
+[33mcommit ce5ee8c78595cd8ab63362c1d05b7a8f95dd1789[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue May 13 23:46:32 2025 +0400
+
+    profile bg
+
+[33mcommit 65e6e56830978a402f7101d2fb6152137da20111[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Sun May 11 00:29:13 2025 +0400
+
+    heroku try
+
+[33mcommit d2eb98fef2bcdb3bbf6817e74b0722725f4ceb0e[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Sat May 10 22:56:27 2025 +0400
+
+    come herokuk
+
+[33mcommit d56fe3f8ed02635941f9ef00efee8cb204fba537[m[33m ([m[1;32mnew[m[33m)[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Sat May 10 22:50:02 2025 +0400
+
+    come back
+
+[33mcommit 644825bb1966b1ccce831e8443ad1d69334e9654[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Fri May 9 17:35:24 2025 +0400
+
+    heroku
+
+[33mcommit ec6ea3bc50e30961cb7cfba3977939a46a81d98f[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Fri May 9 17:19:50 2025 +0400
+
+    profile bg
+
+[33mcommit db341acb6b2f9c3c8a1a5261657ab939a08f1275[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Fri May 9 17:05:21 2025 +0400
+
+    add glass to login form
+
+[33mcommit 7f895ba6d0d129be9014dcff91b5089c8711cc22[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Fri May 9 17:02:23 2025 +0400
+
+    some features
+
+[33mcommit ed04cca7a0c6101a4e52e3021b50dfce33eb3448[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 23:02:27 2025 +0400
+
+    cart page bg
+
+[33mcommit b9d7701fc4c6ea0cda34c3171177aa4d01d16fdd[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 11:49:21 2025 +0400
+
+    glass in cart item
+
+[33mcommit 1d1bb11d96b57d1e31f4392783816415880aba83[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 11:44:57 2025 +0400
+
+    cart bg
+
+[33mcommit 1902975bca05975f2c75f6029053a1f23bce1b1a[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 11:23:46 2025 +0400
+
+    signup page
+
+[33mcommit 50ee30eee152e7f9d99655b6425a9f734c9abbc0[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 10:49:17 2025 +0400
+
+    signup bg
+
+[33mcommit 1ee4fce99241548c13e27b4216f76c6957aeb469[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 10:13:30 2025 +0400
+
+    view detail button
+
+[33mcommit 64fbf96ec420fc8e027d1d6385aad421c17eaf43[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 10:03:21 2025 +0400
+
+    adding product in profile
+
+[33mcommit 9ca68c253f1281118b4d606627d25f782bdd54d5[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 00:15:23 2025 +0400
+
+    profile pic
+
+[33mcommit 1aba28247b7f6985cbdfc14687eeab4b00a21a0d[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 8 00:06:00 2025 +0400
+
+    number appears on profile
+
+[33mcommit de8ccff7011041b6ceadf20254ccbbc44d391bb0[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Wed May 7 22:34:32 2025 +0400
+
+    some corrections
+
+[33mcommit e5762ca639cc42638199d11b598aa3077f093896[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue May 6 10:59:44 2025 +0400
+
+    view details
+
+[33mcommit 6f1af046fb158628bb94266826d3312441ccedf7[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue May 6 10:54:51 2025 +0400
+
+    buy button
+
+[33mcommit 9b6a56e1815f6d18b4faea245d5d2063af000a32[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue May 6 10:17:15 2025 +0400
+
+    stripe3
+
+[33mcommit b32fa872766deb1f3f2e6478d49e68aa8006fc98[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Mon May 5 15:50:31 2025 +0400
+
+    stripe2
+
+[33mcommit 22a8a89eb7ca6c650ec2fd4be638fa375b71cadb[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Mon May 5 15:41:07 2025 +0400
+
+    stripe1
+
+[33mcommit cc772d1bc6298720843449176e535637c87827dd[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Mon May 5 15:29:13 2025 +0400
+
+    total number fix
+
+[33mcommit 1435d747dc03795a3436957985abc85490cc9a8e[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Mon May 5 15:22:09 2025 +0400
+
+    quantity buttons
+
+[33mcommit 7201d694d15891c8e3f0e1011138165fe711ba9d[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 1 17:33:40 2025 +0400
+
+    partially cart thing
+
+[33mcommit 43ad6fc91e71e89d6d0c6bfac838544e877d8038[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 1 16:29:41 2025 +0400
+
+    hero bg
+
+[33mcommit 3f8dfb5e79e165371016d5c77f6d80d081907981[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 1 13:57:12 2025 +0400
+
+    admin
+
+[33mcommit c3053f2662ae982c9f114db0c32a566b0f247c84[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 1 13:36:12 2025 +0400
+
+    delete button on products
+
+[33mcommit 79c8da64b52ab4033679b64f07bed1444cfdc557[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 1 12:59:46 2025 +0400
+
+    products in profile
+
+[33mcommit d3d31f6a9864daa45e0bc930bd18cb4ec25ac145[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Thu May 1 12:41:24 2025 +0400
+
+    profile info works
+
+[33mcommit 07bf1190fb8cbac18b87e781378a6464a825b7f9[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Wed Apr 30 23:55:58 2025 +0400
+
+    profile button
+
+[33mcommit 1ad0c618025521f4d58b80c5d3b22f37d43f1827[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Wed Apr 30 23:47:13 2025 +0400
+
+    name on products
+
+[33mcommit 8272f88c9e8f14ee3a88cb9393eb5a60ebbc6c4b[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue Apr 29 10:31:24 2025 +0400
+
+    possible uploads
+
+[33mcommit 67b19b1cac3cc1b129c3fc150202e02fe81fa651[m
+Author: Javid Baku <cavid-de-baku91@mail.ru>
+Date:   Tue Apr 29 00:25:48 2025 +0400
+
+    addproduct
+
+[33mcommit f45db6b831bedcf7052e42c9e36243c899078f9a[m
+Author: root <root@WIN-963J61DDCN4.localdomain>
+Date:  

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>E-Commerce</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_pack_tag 'application', 'data-turbo-track': 'reload' %>
+    <%= javascript_pack_tag 'application', 'data-turbo-track': 'reload', defer: true %>
+    <%= stripe_js_tag %>
+    
+    <!-- Add Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        content: [
+          './app/views/**/*.erb',
+          './app/javascript/**/*.js',
+          './app/javascript/**/*.jsx'
+        ]
+      }
+    </script>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/icon.png">
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
