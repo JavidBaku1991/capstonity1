@@ -55,7 +55,7 @@ gem 'webpacker', '~> 4.0'
 gem 'sassc-rails'
 
 # AWS SDK for S3
-gem 'aws-sdk-s3', '~> 1.0'
+gem 'aws-sdk-s3', '~> 1.197'
 
 # Admin interface
 gem 'rails_admin', '~> 3.1'
